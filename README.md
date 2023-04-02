@@ -6,3 +6,5 @@ We use VoiceFixer to make the voice of ChatGPT smoother!
 HuggingFace link: https://huggingface.co/spaces/Kevin676/ChatGPT-with-Smooth-Voice
 
 TalktoAI - Enable the future!
+
+(If you use the code, please indicate the source. Thanks.)
